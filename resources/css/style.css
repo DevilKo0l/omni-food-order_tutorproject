@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #fff;
+    color: #555;
+    font-family: 'lato', 'Arial', sans-serif; /*if the user dont have internet the website will use Arial, if arial is not available it will use all font san sarit*/
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+}
